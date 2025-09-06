@@ -1,6 +1,3 @@
-# contador-ovos-celegans
-Projeto em Python utilizando visão computacional para contagem de ovos de C. elegans.
-
 # 🐛 Contador de Ovos de *C. elegans*
 
 Projeto em **Python + OpenCV** para detectar e contar ovos de *C. elegans* em imagens.  
